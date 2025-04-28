@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Transparent Background -->
+  <rect x="0" y="0" width="1024" height="1024" rx="200" fill="transparent" />
+  
+  <!-- Bolt Icon (brand color) -->
+  <path 
+    d="M512 180 C 485.5 180 460 183 435.5 189 L 341 420 L 483 420 L 341 844 L 683 513 L 512 513 L 683 180 Z" 
+    fill="#4286F5" 
+    stroke="none" 
+  />
+</svg> 
